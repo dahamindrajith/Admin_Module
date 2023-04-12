@@ -1,0 +1,393 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 23, 2016, 2:36:21 PM
+    Author     : Suresh
+*/
+.margin-top-1-present{
+    margin-top: 1% !important;
+}
+.margin-top-p5-present{
+    margin-top: 0.8% !important;
+}
+.margin-left-1-present{
+    margin-left:  1% !important;
+}
+.margin-bottom-1-present{
+    margin-bottom :  1% !important;
+}
+.margin-right-1-present{
+    margin-right:  1% !important;
+}
+.margin-top-3-present{
+    margin-top: 3% !important;
+}
+.margin-left-3-present{
+    margin-left:  3% !important;
+}
+.margin-bottom-3-present{
+    margin-bottom :  3% !important;
+}
+.margin-bottom-3-p-5-present{
+    margin-bottom :  3.5% !important;
+}
+.margin-right-3-present{
+    margin-right:  3% !important;
+}
+.margin-top-5-present{
+    margin-top: 5% !important;
+}
+.margin-left-5-present{
+    margin-left:  5% !important;
+}
+.margin-bottom-5-present{
+    margin-bottom :  5% !important;
+}
+.margin-right-5-present{
+    margin-right:  5% !important;
+}
+.margin-none{
+    margin: 0 !important;
+}
+.margin-top-none{
+    margin-top: 0 !important;
+}
+.margin-1-present{
+    margin: 1% !important;
+}
+.margin-3-present{
+    margin: 3% !important;
+}
+.margin-5-present{
+    margin: 5% !important;
+}
+.padding-top-1-present{
+    padding-top:  1% !important;
+}
+.padding-left-1-present{
+    padding-left:  1% !important;
+}
+.padding-bottom-1-present{
+    padding-bottom :  1% !important;
+}
+.padding-right-1-present{
+    padding-right:  1% !important;
+}
+.padding-right-2-5-present{
+    padding-right:  35px !important;
+}
+.padding-top-3-present{
+    padding-top: 3% !important;
+    ;
+}
+.padding-top-1-p-5-present{
+    padding-top: 1.5% !important;
+    ;
+}
+.padding-left-3-present{
+    padding-left:  3% !important;
+    ;
+}
+.padding-bottom-3-present{
+    padding-bottom :  3% !important;
+    ;
+}
+.padding-right-3-present{
+    padding-right:  3% !important;
+    ;
+}
+.padding-right-9-present{
+    padding-right:  9% !important;
+    ;
+}
+.padding-top-5-present{
+    padding-top: 5% !important;
+    ;
+}
+.padding-top-15-present{
+    padding-top: 15% !important;
+    ;
+}
+.padding-left-5-present{
+    padding-left:  5% !important;
+    ;
+}
+.padding-bottom-5-present{
+    padding-bottom :  5% !important;
+    ;
+}
+.padding-right-5-present{
+    padding-right:  5% !important;
+    ;
+}
+.padding-none{
+    padding: 0 !important;
+}
+.padding-top-bottom-left-none{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 0 !important;
+}
+.padding-right-none{
+    padding-right: 0 !important;
+}
+.padding-left-none{
+    padding-left: 0 !important;
+}
+.padding-bottom-none{
+    padding-bottom: 0 !important;
+}
+.padding-top-none{
+    padding-top: 0 !important;
+}
+.padding-1-present{
+    padding: 1% !important;
+}
+.padding-3-present{
+    padding: 3% !important;
+}
+.padding-5-present{
+    padding: 5% !important;
+}
+.margin-top-30px{
+    margin-top: 30px;
+}
+.table-noborder-bottom-left{
+    border-top: 1px solid #000!important;
+    border-bottom: 0!important;
+    border-left:   0!important;
+    border-right:  1px solid #000!important;
+}
+.table-noborder-bottom{
+    border-top: 1px solid #000!important;
+    border-bottom: 0px!important;
+    border-left:   1px solid #000!important;
+    border-right:  1px solid #000!important;
+}
+.table-noborder-top{
+    border-bottom: 1px solid #000!important;
+    border-top: 0!important;
+    border-left:  1px solid #000!important;
+    border-right:  1px solid #000!important;
+}
+.table-noborder-top-bottom-left{
+    border-bottom: 0!important;
+    border-top: 0!important;
+    border-left:  0!important;
+    border-right:  1px solid #000!important;
+}
+.table-noborder{
+    border: 0!important;
+}
+
+.float-left {
+    float: left;
+}
+.display-block {
+    display: block;
+}
+.md-datepicker-calendar-pane{
+    z-index: 9999 !important;
+}
+.md-dialog-container{
+    z-index: 9999!important;
+}
+.clr-green{
+    color: green;
+}
+.clr-red{
+    color: red;
+}
+.clr-bg-wight{
+    background-color:  white;
+}
+.active-row{
+    background-color: #0097cf;
+    color: white;
+}
+.clr-black{
+    color: black !important;
+}
+#scrollBillEntry{
+    max-height: 650px;
+    overflow-y: auto;
+}
+#scrollBillEntryConfirm{
+    max-height: 650px;
+    overflow-y: auto;
+}
+#scrollRaiseVoucher{
+    max-height: 650px;
+    overflow-y: auto;
+}
+#tblBillDetail{
+    max-height: 300px;
+    overflow-y: auto;
+}
+#tblOSBills{
+    max-height: 300px;
+    overflow-y: auto;
+}
+#tblConfirmBillDetail{
+    height: 420px;
+    max-height:  420px;
+    overflow-y: auto;
+}
+#tblCreatePayment{
+    height: 350px;
+    max-height:  350px;
+    overflow-y: auto;
+}
+#tblsendItmTye{
+    height: 420px;
+    max-height:  420px;
+    overflow-y: auto;
+}
+
+#tblSearchScrl{
+    height: 350px;
+    max-height: 350px;
+    overflow-y: auto;
+}
+#tblBillDetail{
+    max-height: 300px;
+    overflow-y: auto;
+}
+#tblraiseVoucherDue{
+    height: 320px;
+    max-height: 320px;
+    overflow-y: auto;
+}
+#tblinsu1{
+    max-height: 200px;
+    overflow-y: auto;
+}
+#tblcancelVoucherDue{
+    height: 355px;
+    max-height: 355px;
+    overflow-y: auto;
+}
+#tblEntryVoucherDue{
+    height: 200px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+#tbldebitLedger{
+    max-height: 300px;
+    overflow-y: auto;
+}
+#editEntryHeight{
+    max-height: 200px;
+    overflow-y: auto;
+}
+#tblChequePrint{
+    height: 300px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+#tblChequeCncl{
+    height: 320px;
+    max-height: 320px;
+    overflow-y: auto;
+}
+#tblupdateDisbursment{
+    height: 340px;
+    max-height: 340px;
+    overflow-y: auto;
+}
+#tblBillLoan{
+    max-height: 600px;
+    overflow-y: auto;
+}
+#tblBillLoanEdit{
+    max-height: 400px;
+    overflow-y: auto;
+}
+#tblBillLoanView{
+    max-height: 400px;
+    overflow-y: auto;
+}
+#disbursTbl{
+    max-height: 340px;
+    height: 340px;
+    overflow-y: auto;
+}
+.svg{
+    background-color: #367fa9;
+    color: white;
+}
+.ln{
+    background-color: #00a65a;
+    color: white;
+}
+.time{
+    background-color: #f39c12;
+    color: white;
+}
+.chq{
+    background-color: #00acd6;
+    color: white;
+}
+.er{
+    background-color: rgb(221, 75, 57);
+    color: white;
+}
+.canRow{
+    background-color: #ffccff;
+}
+.prnt-blue{
+    background-color: #337ab7;
+    color: white;
+}
+.prnt-green{
+    background-color: #5cb85c;
+    color: white;
+}
+#tblBillDetailSelect{
+    max-height: 300px;
+    height: 300px;
+    overflow-y: auto;
+}
+#tblInsuRepo{
+    height: 350px;
+    max-height: 350px;
+    overflow-y: auto;
+}
+#tblInsuLoan{
+    height: 350px;
+    max-height: 350px;
+    overflow-y: auto;
+}
+#tblWhtDetail{
+    height: 320px;
+    max-height: 320px;
+    overflow-y: auto;
+}
+.md-dialog-container #popupContainer {
+    position: relative;
+}
+.md-dialog-container .footer {
+    width: 100%;
+    text-align: center;
+    margin-left: 20px;
+}
+.md-dialog-container .footer, .dialogdemoBasicUsage .footer > code {
+    font-size: 0.8em;
+    margin-top: 50px;
+}
+.md-dialog-container button {
+    width: 200px;
+}
+.md-dialog-container div#status {
+    color: #c60008;
+}
+.md-dialog-container .dialog-demo-prerendered md-checkbox {
+    margin-bottom: 0;
+}
+#popupContainer .ridge{
+border-style: ridge;
+}
+

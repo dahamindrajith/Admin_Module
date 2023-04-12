@@ -1,0 +1,66 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.iml
+*.ipr
+*.iws
+
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.ear
+*.war
+*.rar
+*.tar
+*.zip
+*.tar.gz
+
+
+# Log file #
+*.log
+
+# BlueJ files #
+*.ctxt
+
+# Mobile Tools for Java (J2ME) #
+.mtj.tmp/
+
+# Maven #
+target/
+dependency-reduced-pom.xml
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+nbdist/
+.nb-gradle/# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# OS #
+.DS_Store
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
